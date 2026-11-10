@@ -24,7 +24,12 @@ Each dataset has three kinds of files:
 - `samples/`: the PNO inputs (`.npz`)
 - `matlab_solutions/`: the FEM solutions (~8 GB, not in this repo)
 
-The full dataset, including the FEM solutions, is on Zenodo: [10.5281/zenodo.24111220](https://doi.org/10.5281/zenodo.24111220).
+The full dataset, including the FEM solutions, is on Zenodo:
+
+- Record: https://zenodo.org/records/24111220
+- DOI: [10.5281/zenodo.24111220](https://doi.org/10.5281/zenodo.24111220)
+
+Download `PNO_dataset_main.zip` and `PNO_dataset_lipschitz.zip` and extract them in the repository root, so the files sit under `dataset/`.
 
 ## Quick start
 
