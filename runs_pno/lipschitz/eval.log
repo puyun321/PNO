@@ -1,0 +1,4 @@
+train n= 707  mean=0.0974  median=0.0758  std=0.0980  min=0.0476  max=2.0887
+val   n= 100  mean=0.1079  median=0.0751  std=0.1811  min=0.0502  max=1.8417
+test  n= 100  mean=0.1041  median=0.0777  std=0.0733  min=0.0503  max=0.4969
+wrote results/pno/lipschitz/performance.csv, summary.json, violin.png, test_samples/*.png

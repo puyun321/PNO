@@ -1,0 +1,36 @@
+  [theta1 inv+chol] step      1/8000  loss=7.753e-01
+  [theta1 inv+chol] step   1600/8000  loss=1.473e-05
+  [theta1 inv+chol] step   3200/8000  loss=7.016e-06
+  [theta1 inv+chol] step   4800/8000  loss=5.665e-06
+  [theta1 inv+chol] step   6400/8000  loss=4.990e-06
+  [theta1 inv+chol] step   8000/8000  loss=4.975e-06
+  [theta1 inv+chol] held-out: {'inv_max_abs_err': 0.014799714088439941, 'chol_max_abs_err': 0.012994050979614258}
+  [N_det] step      1/8000  loss=5.692e+00
+  [N_det] step   1600/8000  loss=1.135e-04
+  [N_det] step   3200/8000  loss=3.513e-05
+  [N_det] step   4800/8000  loss=2.530e-05
+  [N_det] step   6400/8000  loss=2.164e-05
+  [N_det] step   8000/8000  loss=2.039e-05
+  [N_det] held-out: {'det_max_rel_err': 0.03369522467255592}
+  [theta2 heat] step      1/15000  loss=1.112e+00
+  [theta2 heat] step   3000/15000  loss=1.259e-04
+  [theta2 heat] step   6000/15000  loss=9.724e-05
+  [theta2 heat] step   9000/15000  loss=4.708e-05
+  [theta2 heat] step  12000/15000  loss=3.592e-05
+  [theta2 heat] step  15000/15000  loss=3.346e-05
+  [theta2 heat] held-out: {'heat_max_err_rel_to_peak': 0.009190230630338192, 'heat_mean_err_rel_to_peak': 0.0006845289608463645}
+  [theta3 ProdPoly] step      1/20000  loss=1.307e+01
+  [theta3 ProdPoly] step   4000/20000  loss=6.724e-03
+  [theta3 ProdPoly] step   8000/20000  loss=2.485e-03
+  [theta3 ProdPoly] step  12000/20000  loss=6.761e-04
+  [theta3 ProdPoly] step  16000/20000  loss=2.843e-04
+  [theta3 ProdPoly] step  20000/20000  loss=2.408e-04
+  [theta3 ProdPoly] held-out: {'rel_err_of_value_times_Z': 0.004887344781309366}
+  [N^hat ProdPoly] step      1/20000  loss=4.978e+01
+  [N^hat ProdPoly] step   4000/20000  loss=5.077e-03
+  [N^hat ProdPoly] step   8000/20000  loss=1.003e-03
+  [N^hat ProdPoly] step  12000/20000  loss=7.694e-05
+  [N^hat ProdPoly] step  16000/20000  loss=3.934e-05
+  [N^hat ProdPoly] step  20000/20000  loss=1.993e-05
+  [N^hat ProdPoly] held-out: {'rel_err_of_value_times_Z': 0.0007859597099013627}
+saved -> runs_pno/pretrained.pt

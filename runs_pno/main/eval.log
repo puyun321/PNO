@@ -1,0 +1,4 @@
+train n= 809  mean=0.0921  median=0.0729  std=0.0610  min=0.0427  max=0.5656
+val   n= 100  mean=0.0912  median=0.0727  std=0.0752  min=0.0455  max=0.7103
+test  n= 100  mean=0.0908  median=0.0680  std=0.0647  min=0.0475  max=0.5081
+wrote results/pno/main/performance.csv, summary.json, violin.png, test_samples/*.png

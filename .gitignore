@@ -1,0 +1,7 @@
+# FEM reference solutions (~8 GB, too large for GitHub) -- regenerate with
+# matlab/run_problems_training.m, run_problems_testing.m,
+# run_problems_lipschitz.m and run_problems_ood.m
+dataset/*/matlab_solutions/
+
+__pycache__/
+*.pyc

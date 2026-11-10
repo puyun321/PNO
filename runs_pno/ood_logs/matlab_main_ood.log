@@ -1,0 +1,505 @@
+[1/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00000.mat
+    a_ij corners: TL=[[2.388,0.239],[0.239,2.892]]  TR=[[2.327,0.142],[0.142,2.075]]  BL=[[2.662,0.040],[0.040,2.408]]  BR=[[2.347,0.028],[0.028,2.785]]
+    b1=-2.2697 b2=-1.0739 c=0.0575 beta=1.3501 f=-1.0932 h=3.3673 g=0.0000
+[2/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00001.mat
+    a_ij corners: TL=[[2.164,0.221],[0.221,2.779]]  TR=[[2.636,-0.095],[-0.095,2.807]]  BL=[[2.518,0.064],[0.064,2.752]]  BR=[[2.559,0.119],[0.119,2.646]]
+    b1=-0.5469 b2=-2.0828 c=-0.7375 beta=-0.0647 f=-0.2501 h=-3.7703 g=0.0000
+[3/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00002.mat
+    a_ij corners: TL=[[2.981,-0.108],[-0.108,2.270]]  TR=[[2.598,0.091],[0.091,2.979]]  BL=[[2.774,-0.077],[-0.077,2.556]]  BR=[[2.340,-0.169],[-0.169,2.279]]
+    b1=-0.6024 b2=0.2998 c=-1.1533 beta=-1.6690 f=-2.3276 h=0.1787 g=0.0000
+[4/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00003.mat
+    a_ij corners: TL=[[2.837,-0.105],[-0.105,2.250]]  TR=[[2.310,0.005],[0.005,2.415]]  BL=[[2.289,0.024],[0.024,2.161]]  BR=[[2.351,-0.184],[-0.184,2.770]]
+    b1=-0.8675 b2=0.2924 c=-0.5751 beta=-0.3979 f=0.4743 h=-1.6134 g=0.0000
+[5/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00004.mat
+    a_ij corners: TL=[[2.401,0.102],[0.102,2.915]]  TR=[[2.200,0.330],[0.330,2.819]]  BL=[[2.232,0.021],[0.021,2.446]]  BR=[[2.581,0.272],[0.272,2.471]]
+    b1=-0.4100 b2=1.6299 c=0.5948 beta=0.6813 f=-0.2026 h=1.2245 g=0.0000
+[6/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00005.mat
+    a_ij corners: TL=[[2.782,0.150],[0.150,2.550]]  TR=[[2.590,0.061],[0.061,2.854]]  BL=[[2.477,-0.059],[-0.059,2.754]]  BR=[[2.255,0.097],[0.097,2.385]]
+    b1=1.4808 b2=0.0310 c=-0.3898 beta=0.7573 f=3.1708 h=0.2853 g=0.0000
+[7/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00006.mat
+    a_ij corners: TL=[[2.230,0.008],[0.008,2.256]]  TR=[[2.380,0.314],[0.314,2.520]]  BL=[[2.360,0.057],[0.057,2.425]]  BR=[[2.584,-0.109],[-0.109,2.534]]
+    b1=1.6809 b2=0.5423 c=-0.0010 beta=-1.4367 f=1.3156 h=-0.2882 g=0.0000
+[8/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00007.mat
+    a_ij corners: TL=[[2.750,-0.043],[-0.043,2.430]]  TR=[[2.234,-0.020],[-0.020,2.341]]  BL=[[2.708,-0.403],[-0.403,2.328]]  BR=[[2.226,0.025],[0.025,2.235]]
+    b1=-1.1471 b2=-0.8184 c=1.2916 beta=1.5722 f=2.7918 h=0.1115 g=0.0000
+[9/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00008.mat
+    a_ij corners: TL=[[2.888,-0.285],[-0.285,2.118]]  TR=[[2.569,-0.178],[-0.178,2.251]]  BL=[[2.908,-0.002],[-0.002,2.921]]  BR=[[2.602,-0.265],[-0.265,2.813]]
+    b1=-0.5840 b2=-0.0519 c=-2.0931 beta=0.2488 f=0.9065 h=1.5678 g=0.0000
+[10/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00009.mat
+    a_ij corners: TL=[[2.592,-0.419],[-0.419,2.420]]  TR=[[2.356,-0.370],[-0.370,2.494]]  BL=[[2.652,0.057],[0.057,2.778]]  BR=[[2.573,0.298],[0.298,2.233]]
+    b1=0.6212 b2=-1.0632 c=0.0422 beta=1.7239 f=5.1939 h=-1.2137 g=0.0000
+[11/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00010.mat
+    a_ij corners: TL=[[2.404,0.026],[0.026,2.424]]  TR=[[2.744,0.085],[0.085,2.525]]  BL=[[2.313,-0.020],[-0.020,2.306]]  BR=[[2.656,0.217],[0.217,2.583]]
+    b1=-1.2546 b2=0.2326 c=-0.0977 beta=2.8037 f=3.4064 h=0.7828 g=0.0000
+[12/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00011.mat
+    a_ij corners: TL=[[2.300,0.079],[0.079,2.512]]  TR=[[2.639,0.086],[0.086,2.887]]  BL=[[2.275,-0.305],[-0.305,2.636]]  BR=[[2.410,0.240],[0.240,2.277]]
+    b1=0.1842 b2=1.7843 c=-1.1590 beta=0.5962 f=-0.8862 h=-0.3070 g=0.0000
+[13/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00012.mat
+    a_ij corners: TL=[[2.613,-0.153],[-0.153,2.332]]  TR=[[2.031,-0.000],[-0.000,2.028]]  BL=[[2.300,-0.030],[-0.030,2.287]]  BR=[[2.730,-0.303],[-0.303,2.360]]
+    b1=1.0201 b2=0.3810 c=-0.0954 beta=-0.1868 f=1.1268 h=-0.2919 g=0.0000
+[14/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00013.mat
+    a_ij corners: TL=[[2.443,0.227],[0.227,2.546]]  TR=[[2.038,0.009],[0.009,2.047]]  BL=[[2.078,-0.214],[-0.214,2.803]]  BR=[[2.673,0.187],[0.187,2.523]]
+    b1=0.7529 b2=0.3740 c=1.3743 beta=-0.9001 f=0.7736 h=-2.0442 g=0.0000
+[15/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00014.mat
+    a_ij corners: TL=[[2.339,0.017],[0.017,2.139]]  TR=[[2.718,-0.050],[-0.050,2.754]]  BL=[[2.376,0.087],[0.087,2.307]]  BR=[[2.759,0.038],[0.038,2.799]]
+    b1=0.4154 b2=0.3873 c=-0.2406 beta=-0.6978 f=-2.8099 h=-0.6936 g=0.0000
+[16/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00015.mat
+    a_ij corners: TL=[[2.302,-0.093],[-0.093,2.683]]  TR=[[2.299,-0.226],[-0.226,2.655]]  BL=[[2.167,-0.004],[-0.004,2.206]]  BR=[[2.682,-0.111],[-0.111,2.474]]
+    b1=-0.3622 b2=-1.3356 c=-1.4701 beta=0.0075 f=-0.1412 h=1.5174 g=0.0000
+[17/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00016.mat
+    a_ij corners: TL=[[2.580,0.090],[0.090,2.515]]  TR=[[2.288,0.076],[0.076,2.855]]  BL=[[2.336,0.003],[0.003,2.255]]  BR=[[2.448,-0.026],[-0.026,2.319]]
+    b1=-0.6257 b2=1.0319 c=-0.6184 beta=-2.1262 f=0.0749 h=-1.9830 g=0.0000
+[18/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00017.mat
+    a_ij corners: TL=[[2.472,0.229],[0.229,2.187]]  TR=[[2.841,0.005],[0.005,2.845]]  BL=[[2.438,0.010],[0.010,2.387]]  BR=[[2.012,0.011],[0.011,2.088]]
+    b1=0.0739 b2=0.1540 c=-1.1359 beta=2.4763 f=-0.1377 h=0.1380 g=0.0000
+[19/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00018.mat
+    a_ij corners: TL=[[2.259,0.349],[0.349,2.808]]  TR=[[2.359,0.367],[0.367,2.477]]  BL=[[2.509,-0.230],[-0.230,2.165]]  BR=[[2.647,0.042],[0.042,2.276]]
+    b1=0.2627 b2=0.1306 c=-0.9628 beta=-0.3405 f=2.7199 h=0.1881 g=0.0000
+[20/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00019.mat
+    a_ij corners: TL=[[2.337,-0.071],[-0.071,2.334]]  TR=[[2.732,-0.015],[-0.015,2.533]]  BL=[[2.216,0.348],[0.348,2.691]]  BR=[[2.731,-0.189],[-0.189,2.531]]
+    b1=-2.3765 b2=-2.4956 c=0.0109 beta=0.7796 f=-2.3401 h=-0.3072 g=0.0000
+[21/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00020.mat
+    a_ij corners: TL=[[2.295,-0.110],[-0.110,2.672]]  TR=[[2.388,-0.126],[-0.126,2.188]]  BL=[[2.355,0.154],[0.154,2.084]]  BR=[[2.800,0.080],[0.080,2.722]]
+    b1=0.4887 b2=0.8995 c=0.8601 beta=-0.2793 f=0.0420 h=1.4710 g=0.0000
+[22/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00021.mat
+    a_ij corners: TL=[[2.538,-0.185],[-0.185,2.497]]  TR=[[2.323,0.222],[0.222,2.772]]  BL=[[2.062,-0.010],[-0.010,2.047]]  BR=[[2.164,0.049],[0.049,2.488]]
+    b1=1.3514 b2=0.0408 c=-0.0479 beta=1.2586 f=-2.1965 h=1.0340 g=0.0000
+[23/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00022.mat
+    a_ij corners: TL=[[2.393,0.080],[0.080,2.029]]  TR=[[2.426,-0.237],[-0.237,2.458]]  BL=[[2.682,0.074],[0.074,2.590]]  BR=[[2.320,0.071],[0.071,2.408]]
+    b1=0.6065 b2=-3.4005 c=-1.8492 beta=-0.9431 f=-1.6435 h=0.5287 g=0.0000
+[24/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00023.mat
+    a_ij corners: TL=[[2.259,0.095],[0.095,2.919]]  TR=[[2.959,0.021],[0.021,2.438]]  BL=[[2.302,0.036],[0.036,2.452]]  BR=[[2.383,-0.143],[-0.143,2.554]]
+    b1=-0.0974 b2=0.8350 c=-2.4731 beta=2.4069 f=0.6829 h=-1.2373 g=0.0000
+[25/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00024.mat
+    a_ij corners: TL=[[2.035,-0.056],[-0.056,2.804]]  TR=[[2.269,-0.027],[-0.027,2.353]]  BL=[[2.070,0.195],[0.195,2.679]]  BR=[[2.518,0.024],[0.024,2.495]]
+    b1=-0.2554 b2=-1.1068 c=1.2561 beta=1.7797 f=1.1180 h=-1.0703 g=0.0000
+[26/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00025.mat
+    a_ij corners: TL=[[2.733,0.050],[0.050,2.780]]  TR=[[2.521,0.000],[0.000,2.520]]  BL=[[2.699,-0.066],[-0.066,2.726]]  BR=[[2.936,0.012],[0.012,2.584]]
+    b1=1.1864 b2=-0.3953 c=-0.2898 beta=-0.2772 f=-1.2895 h=-0.9060 g=0.0000
+[27/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00026.mat
+    a_ij corners: TL=[[2.388,-0.117],[-0.117,2.723]]  TR=[[2.817,-0.026],[-0.026,2.898]]  BL=[[2.354,-0.312],[-0.312,2.743]]  BR=[[2.466,0.020],[0.020,2.194]]
+    b1=1.8692 b2=1.3113 c=1.2421 beta=-1.4115 f=-1.3464 h=-1.5895 g=0.0000
+[28/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00027.mat
+    a_ij corners: TL=[[2.553,-0.140],[-0.140,2.551]]  TR=[[2.858,0.163],[0.163,2.148]]  BL=[[2.181,0.042],[0.042,2.113]]  BR=[[2.151,0.039],[0.039,2.205]]
+    b1=0.4121 b2=1.4266 c=-2.9985 beta=-1.9197 f=0.6891 h=1.3591 g=0.0000
+[29/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00028.mat
+    a_ij corners: TL=[[2.291,-0.213],[-0.213,2.207]]  TR=[[2.686,0.024],[0.024,2.781]]  BL=[[2.834,0.110],[0.110,2.834]]  BR=[[2.504,-0.164],[-0.164,2.428]]
+    b1=1.0352 b2=-0.6162 c=-3.2942 beta=0.4695 f=-1.5494 h=0.5763 g=0.0000
+[30/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00029.mat
+    a_ij corners: TL=[[2.990,-0.017],[-0.017,2.675]]  TR=[[2.644,-0.102],[-0.102,2.278]]  BL=[[2.743,0.187],[0.187,2.693]]  BR=[[2.605,-0.209],[-0.209,2.097]]
+    b1=0.7184 b2=-0.9669 c=-0.4116 beta=-4.8316 f=3.1673 h=-1.2070 g=0.0000
+[31/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00030.mat
+    a_ij corners: TL=[[2.317,0.097],[0.097,2.211]]  TR=[[2.679,-0.170],[-0.170,2.421]]  BL=[[2.311,0.078],[0.078,2.193]]  BR=[[2.324,-0.002],[-0.002,2.349]]
+    b1=-0.9372 b2=0.3688 c=-1.8462 beta=0.7590 f=1.2729 h=-1.6383 g=0.0000
+[32/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00031.mat
+    a_ij corners: TL=[[2.863,0.033],[0.033,2.891]]  TR=[[2.135,0.007],[0.007,2.086]]  BL=[[2.488,0.014],[0.014,2.915]]  BR=[[2.526,-0.013],[-0.013,2.455]]
+    b1=2.7552 b2=-0.7727 c=-2.0941 beta=0.0143 f=2.8389 h=1.9988 g=0.0000
+[33/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00032.mat
+    a_ij corners: TL=[[2.235,-0.006],[-0.006,2.203]]  TR=[[2.604,-0.034],[-0.034,2.909]]  BL=[[2.685,-0.010],[-0.010,2.686]]  BR=[[2.617,0.124],[0.124,2.511]]
+    b1=-0.6156 b2=3.2776 c=-1.8918 beta=-1.0656 f=-2.1261 h=-1.4410 g=0.0000
+[34/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00033.mat
+    a_ij corners: TL=[[2.394,-0.126],[-0.126,2.892]]  TR=[[2.403,0.081],[0.081,2.271]]  BL=[[2.515,0.013],[0.013,2.493]]  BR=[[2.962,0.014],[0.014,2.898]]
+    b1=-0.4900 b2=2.0663 c=-0.3646 beta=-1.1525 f=-1.8541 h=3.3237 g=0.0000
+[35/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00034.mat
+    a_ij corners: TL=[[2.094,-0.011],[-0.011,2.084]]  TR=[[2.339,-0.149],[-0.149,2.893]]  BL=[[2.365,0.003],[0.003,2.346]]  BR=[[2.228,0.105],[0.105,2.307]]
+    b1=2.4017 b2=1.2393 c=1.9045 beta=0.9900 f=-1.2457 h=-1.7712 g=0.0000
+[36/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00035.mat
+    a_ij corners: TL=[[2.155,-0.122],[-0.122,2.421]]  TR=[[2.682,0.122],[0.122,2.163]]  BL=[[2.548,-0.062],[-0.062,2.378]]  BR=[[2.628,0.199],[0.199,2.236]]
+    b1=1.1453 b2=-0.0204 c=-0.1629 beta=-0.8760 f=2.9572 h=0.8829 g=0.0000
+[37/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00036.mat
+    a_ij corners: TL=[[2.261,-0.085],[-0.085,2.348]]  TR=[[2.800,0.111],[0.111,2.507]]  BL=[[2.465,0.287],[0.287,2.501]]  BR=[[2.544,-0.051],[-0.051,2.584]]
+    b1=-2.1483 b2=1.8422 c=-2.5501 beta=1.4963 f=4.1551 h=-0.0870 g=0.0000
+[38/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00037.mat
+    a_ij corners: TL=[[2.712,0.201],[0.201,2.500]]  TR=[[2.742,0.206],[0.206,2.443]]  BL=[[2.435,-0.274],[-0.274,2.307]]  BR=[[2.235,-0.002],[-0.002,2.245]]
+    b1=0.0341 b2=-1.1610 c=-0.6442 beta=0.0300 f=-0.3223 h=4.1725 g=0.0000
+[39/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00038.mat
+    a_ij corners: TL=[[2.526,0.271],[0.271,2.771]]  TR=[[2.124,0.221],[0.221,2.536]]  BL=[[2.447,0.122],[0.122,2.099]]  BR=[[2.745,-0.300],[-0.300,2.335]]
+    b1=-1.0907 b2=1.2234 c=-0.2385 beta=3.1718 f=0.4400 h=-1.2573 g=0.0000
+[40/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00039.mat
+    a_ij corners: TL=[[2.808,-0.013],[-0.013,2.594]]  TR=[[2.639,-0.094],[-0.094,2.923]]  BL=[[2.901,0.163],[0.163,2.528]]  BR=[[2.617,0.342],[0.342,2.403]]
+    b1=0.6026 b2=-0.4476 c=-1.0373 beta=-2.1122 f=0.6518 h=0.7128 g=0.0000
+[41/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00040.mat
+    a_ij corners: TL=[[2.685,0.050],[0.050,2.423]]  TR=[[2.886,0.058],[0.058,2.955]]  BL=[[2.638,-0.057],[-0.057,2.614]]  BR=[[2.633,0.313],[0.313,2.609]]
+    b1=0.6614 b2=3.5909 c=0.1827 beta=-1.3809 f=-2.6133 h=-4.5629 g=0.0000
+[42/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00041.mat
+    a_ij corners: TL=[[2.656,-0.062],[-0.062,2.340]]  TR=[[2.681,-0.005],[-0.005,2.536]]  BL=[[2.737,0.111],[0.111,2.849]]  BR=[[2.042,0.096],[0.096,2.691]]
+    b1=-0.5375 b2=-1.8970 c=-0.9235 beta=2.8510 f=0.8980 h=0.2928 g=0.0000
+[43/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00042.mat
+    a_ij corners: TL=[[2.889,-0.061],[-0.061,2.724]]  TR=[[2.778,0.017],[0.017,2.815]]  BL=[[2.538,-0.145],[-0.145,2.427]]  BR=[[2.355,-0.275],[-0.275,2.559]]
+    b1=0.9731 b2=-0.7311 c=0.4181 beta=0.0078 f=-1.9590 h=3.1209 g=0.0000
+[44/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00043.mat
+    a_ij corners: TL=[[2.707,-0.104],[-0.104,2.700]]  TR=[[2.556,0.035],[0.035,2.394]]  BL=[[2.232,0.074],[0.074,2.254]]  BR=[[2.476,0.103],[0.103,2.355]]
+    b1=-0.2420 b2=-1.6795 c=1.2764 beta=0.2555 f=-1.0655 h=1.5447 g=0.0000
+[45/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00044.mat
+    a_ij corners: TL=[[2.005,0.001],[0.001,2.547]]  TR=[[2.590,-0.159],[-0.159,2.480]]  BL=[[2.195,-0.193],[-0.193,2.521]]  BR=[[2.678,0.060],[0.060,2.711]]
+    b1=-1.0476 b2=0.7719 c=-0.7142 beta=-1.7624 f=-1.6281 h=0.0801 g=0.0000
+[46/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00045.mat
+    a_ij corners: TL=[[2.202,-0.010],[-0.010,2.272]]  TR=[[2.471,-0.092],[-0.092,2.807]]  BL=[[2.810,0.317],[0.317,2.310]]  BR=[[2.439,-0.385],[-0.385,2.551]]
+    b1=1.3774 b2=-0.2691 c=0.3944 beta=-0.0968 f=-4.6886 h=-0.0361 g=0.0000
+[47/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00046.mat
+    a_ij corners: TL=[[2.060,-0.046],[-0.046,2.052]]  TR=[[2.515,-0.051],[-0.051,2.393]]  BL=[[2.434,-0.143],[-0.143,2.195]]  BR=[[2.471,-0.073],[-0.073,2.442]]
+    b1=-2.2635 b2=0.2434 c=-0.9419 beta=2.0973 f=-3.1341 h=0.1533 g=0.0000
+[48/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00047.mat
+    a_ij corners: TL=[[2.426,-0.038],[-0.038,2.764]]  TR=[[2.570,-0.152],[-0.152,2.743]]  BL=[[2.670,0.085],[0.085,2.202]]  BR=[[2.572,0.024],[0.024,2.429]]
+    b1=-1.2264 b2=0.7830 c=-1.6371 beta=-2.3567 f=1.0174 h=-3.1060 g=0.0000
+[49/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00048.mat
+    a_ij corners: TL=[[2.797,-0.112],[-0.112,2.601]]  TR=[[2.502,0.238],[0.238,2.700]]  BL=[[2.404,0.032],[0.032,2.250]]  BR=[[2.141,0.001],[0.001,2.090]]
+    b1=1.5985 b2=-0.6288 c=0.2857 beta=1.8663 f=4.6703 h=0.2840 g=0.0000
+[50/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00049.mat
+    a_ij corners: TL=[[2.682,0.002],[0.002,2.685]]  TR=[[2.396,0.294],[0.294,2.592]]  BL=[[2.444,0.045],[0.045,2.903]]  BR=[[2.155,0.267],[0.267,2.542]]
+    b1=-0.0350 b2=-0.3305 c=1.4177 beta=0.5868 f=-1.3447 h=0.8236 g=0.0000
+[51/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00050.mat
+    a_ij corners: TL=[[2.843,-0.025],[-0.025,2.784]]  TR=[[2.902,-0.072],[-0.072,2.945]]  BL=[[2.250,-0.363],[-0.363,2.768]]  BR=[[2.513,-0.066],[-0.066,2.511]]
+    b1=-0.8702 b2=-0.6317 c=-1.0703 beta=-0.3827 f=1.3601 h=7.3813 g=0.0000
+[52/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00051.mat
+    a_ij corners: TL=[[2.561,-0.127],[-0.127,2.146]]  TR=[[2.530,0.127],[0.127,2.166]]  BL=[[2.626,-0.129],[-0.129,2.767]]  BR=[[2.194,-0.013],[-0.013,2.231]]
+    b1=0.0186 b2=-0.4698 c=1.3924 beta=-1.1987 f=-0.5693 h=-1.6803 g=0.0000
+[53/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00052.mat
+    a_ij corners: TL=[[2.575,0.023],[0.023,2.536]]  TR=[[2.361,-0.229],[-0.229,2.375]]  BL=[[2.304,-0.027],[-0.027,2.927]]  BR=[[2.069,-0.041],[-0.041,2.097]]
+    b1=0.4846 b2=2.2980 c=-0.9771 beta=-0.7663 f=1.7150 h=0.5566 g=0.0000
+[54/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00053.mat
+    a_ij corners: TL=[[2.737,-0.060],[-0.060,2.686]]  TR=[[2.552,-0.070],[-0.070,2.683]]  BL=[[2.043,0.045],[0.045,2.112]]  BR=[[2.449,-0.055],[-0.055,2.139]]
+    b1=-0.4655 b2=-0.5273 c=-1.6224 beta=1.6526 f=-2.5948 h=1.0130 g=0.0000
+[55/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00054.mat
+    a_ij corners: TL=[[2.109,0.054],[0.054,2.669]]  TR=[[2.665,-0.355],[-0.355,2.268]]  BL=[[2.317,0.187],[0.187,2.163]]  BR=[[2.954,-0.047],[-0.047,2.012]]
+    b1=1.1839 b2=0.6511 c=1.0124 beta=-0.9439 f=-0.2141 h=-0.3467 g=0.0000
+[56/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00055.mat
+    a_ij corners: TL=[[2.192,0.031],[0.031,2.233]]  TR=[[2.617,0.135],[0.135,2.374]]  BL=[[2.769,0.230],[0.230,2.463]]  BR=[[2.140,-0.056],[-0.056,2.206]]
+    b1=0.5881 b2=-1.2735 c=0.7148 beta=-1.9651 f=2.4637 h=0.6944 g=0.0000
+[57/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00056.mat
+    a_ij corners: TL=[[2.813,-0.125],[-0.125,2.878]]  TR=[[2.784,0.170],[0.170,2.556]]  BL=[[2.885,-0.117],[-0.117,2.829]]  BR=[[2.549,0.001],[0.001,2.062]]
+    b1=0.7082 b2=0.0407 c=1.7252 beta=1.0075 f=-0.8069 h=-4.4478 g=0.0000
+[58/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00057.mat
+    a_ij corners: TL=[[2.855,-0.073],[-0.073,2.550]]  TR=[[2.389,0.041],[0.041,2.377]]  BL=[[2.211,-0.120],[-0.120,2.721]]  BR=[[2.551,0.326],[0.326,2.587]]
+    b1=-1.2119 b2=0.8333 c=1.5876 beta=-1.3457 f=-2.3068 h=3.2191 g=0.0000
+[59/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00058.mat
+    a_ij corners: TL=[[2.356,-0.008],[-0.008,2.303]]  TR=[[2.296,-0.056],[-0.056,2.394]]  BL=[[2.104,-0.095],[-0.095,2.295]]  BR=[[2.436,0.043],[0.043,2.503]]
+    b1=0.9976 b2=0.8550 c=-1.3772 beta=-0.8004 f=3.9366 h=-1.7577 g=0.0000
+[60/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00059.mat
+    a_ij corners: TL=[[2.060,0.121],[0.121,2.653]]  TR=[[2.407,-0.262],[-0.262,2.857]]  BL=[[2.485,-0.030],[-0.030,2.322]]  BR=[[2.908,0.220],[0.220,2.416]]
+    b1=0.5372 b2=-0.9279 c=1.0582 beta=1.0829 f=2.3732 h=2.7705 g=0.0000
+[61/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00060.mat
+    a_ij corners: TL=[[2.646,0.320],[0.320,2.181]]  TR=[[2.009,0.000],[0.000,2.009]]  BL=[[2.538,-0.052],[-0.052,2.583]]  BR=[[2.421,-0.014],[-0.014,2.376]]
+    b1=0.9931 b2=2.1586 c=2.4751 beta=1.7547 f=0.3921 h=1.1780 g=0.0000
+[62/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00061.mat
+    a_ij corners: TL=[[2.467,-0.014],[-0.014,2.648]]  TR=[[2.093,0.007],[0.007,2.113]]  BL=[[2.288,0.316],[0.316,2.771]]  BR=[[2.244,0.002],[0.002,2.577]]
+    b1=2.5886 b2=-1.3886 c=-0.3599 beta=-3.0223 f=2.4066 h=1.3628 g=0.0000
+[63/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00062.mat
+    a_ij corners: TL=[[2.497,0.171],[0.171,2.263]]  TR=[[2.738,-0.084],[-0.084,2.593]]  BL=[[2.503,-0.017],[-0.017,2.506]]  BR=[[2.815,-0.002],[-0.002,2.768]]
+    b1=0.9640 b2=0.6743 c=-1.3317 beta=-0.4160 f=-0.0124 h=0.2718 g=0.0000
+[64/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00063.mat
+    a_ij corners: TL=[[2.169,0.250],[0.250,2.693]]  TR=[[2.549,0.003],[0.003,2.451]]  BL=[[2.251,-0.057],[-0.057,2.479]]  BR=[[2.847,0.088],[0.088,2.613]]
+    b1=-0.5565 b2=-0.0987 c=-0.9759 beta=-2.3392 f=-2.3424 h=-1.0781 g=0.0000
+[65/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00064.mat
+    a_ij corners: TL=[[2.818,-0.032],[-0.032,2.949]]  TR=[[2.507,0.179],[0.179,2.144]]  BL=[[2.411,-0.173],[-0.173,2.332]]  BR=[[2.518,-0.154],[-0.154,2.727]]
+    b1=-1.1222 b2=0.9494 c=0.9400 beta=0.6244 f=-0.2388 h=1.4118 g=0.0000
+[66/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00065.mat
+    a_ij corners: TL=[[2.868,0.091],[0.091,2.858]]  TR=[[2.755,0.048],[0.048,2.882]]  BL=[[2.242,0.135],[0.135,2.336]]  BR=[[2.548,-0.022],[-0.022,2.373]]
+    b1=-0.9059 b2=1.6515 c=-0.4280 beta=0.4969 f=-1.5669 h=-1.0945 g=0.0000
+[67/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00066.mat
+    a_ij corners: TL=[[2.748,-0.178],[-0.178,2.773]]  TR=[[2.629,0.000],[0.000,2.629]]  BL=[[2.468,-0.079],[-0.079,2.385]]  BR=[[2.175,0.076],[0.076,2.120]]
+    b1=-1.2526 b2=1.0800 c=0.8505 beta=2.6788 f=5.2518 h=-2.9551 g=0.0000
+[68/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00067.mat
+    a_ij corners: TL=[[2.798,0.171],[0.171,2.398]]  TR=[[2.831,0.019],[0.019,2.980]]  BL=[[2.722,0.070],[0.070,2.200]]  BR=[[2.332,-0.078],[-0.078,2.393]]
+    b1=-0.1691 b2=1.9258 c=1.4075 beta=0.4106 f=1.9922 h=0.6269 g=0.0000
+[69/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00068.mat
+    a_ij corners: TL=[[2.435,0.424],[0.424,2.437]]  TR=[[2.396,0.104],[0.104,2.461]]  BL=[[2.296,0.027],[0.027,2.413]]  BR=[[2.854,-0.115],[-0.115,2.785]]
+    b1=-0.3616 b2=-1.0851 c=-1.4042 beta=-1.8630 f=2.6662 h=0.5328 g=0.0000
+[70/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00069.mat
+    a_ij corners: TL=[[2.215,-0.188],[-0.188,2.300]]  TR=[[2.588,-0.117],[-0.117,2.730]]  BL=[[2.471,0.082],[0.082,2.426]]  BR=[[2.401,0.063],[0.063,2.418]]
+    b1=-1.8222 b2=-1.2043 c=-0.6675 beta=0.6534 f=0.2761 h=-1.7313 g=0.0000
+[71/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00070.mat
+    a_ij corners: TL=[[2.655,-0.084],[-0.084,2.143]]  TR=[[2.878,-0.134],[-0.134,2.721]]  BL=[[2.179,-0.003],[-0.003,2.185]]  BR=[[2.389,0.373],[0.373,2.503]]
+    b1=-0.9022 b2=1.2679 c=1.1656 beta=-1.0701 f=6.5663 h=2.2046 g=0.0000
+[72/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00071.mat
+    a_ij corners: TL=[[2.616,-0.266],[-0.266,2.633]]  TR=[[2.822,-0.077],[-0.077,2.798]]  BL=[[2.467,0.128],[0.128,2.454]]  BR=[[2.238,0.098],[0.098,2.182]]
+    b1=0.4524 b2=-0.3294 c=-0.8245 beta=-0.3372 f=-1.6691 h=-3.5865 g=0.0000
+[73/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00072.mat
+    a_ij corners: TL=[[2.646,-0.028],[-0.028,2.781]]  TR=[[2.574,0.098],[0.098,2.537]]  BL=[[2.157,0.127],[0.127,2.858]]  BR=[[2.515,-0.110],[-0.110,2.854]]
+    b1=0.4810 b2=0.1030 c=-0.2957 beta=-1.5813 f=-1.9876 h=-2.4138 g=0.0000
+[74/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00073.mat
+    a_ij corners: TL=[[2.379,0.017],[0.017,2.395]]  TR=[[2.387,0.107],[0.107,2.437]]  BL=[[2.265,0.000],[0.000,2.259]]  BR=[[2.334,0.135],[0.135,2.270]]
+    b1=-0.7949 b2=-1.7051 c=-1.1428 beta=-1.5498 f=-3.2985 h=-2.0883 g=0.0000
+[75/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00074.mat
+    a_ij corners: TL=[[2.625,-0.016],[-0.016,2.378]]  TR=[[2.763,-0.021],[-0.021,2.659]]  BL=[[2.528,-0.022],[-0.022,2.607]]  BR=[[2.263,-0.186],[-0.186,2.785]]
+    b1=-2.9420 b2=0.6584 c=0.9302 beta=-0.0785 f=-2.0195 h=-2.3553 g=0.0000
+[76/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00075.mat
+    a_ij corners: TL=[[2.325,-0.162],[-0.162,2.169]]  TR=[[2.647,-0.049],[-0.049,2.623]]  BL=[[2.508,0.002],[0.002,2.173]]  BR=[[2.340,0.247],[0.247,2.413]]
+    b1=0.8331 b2=1.1054 c=1.3231 beta=-0.7231 f=-1.1748 h=0.1241 g=0.0000
+[77/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00076.mat
+    a_ij corners: TL=[[2.194,0.009],[0.009,2.044]]  TR=[[2.238,-0.230],[-0.230,2.689]]  BL=[[2.486,0.173],[0.173,2.894]]  BR=[[2.699,0.039],[0.039,2.213]]
+    b1=0.3718 b2=-0.3181 c=0.5731 beta=1.1181 f=0.4729 h=-2.1948 g=0.0000
+[78/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00077.mat
+    a_ij corners: TL=[[2.651,-0.391],[-0.391,2.403]]  TR=[[2.725,-0.053],[-0.053,2.828]]  BL=[[2.713,0.126],[0.126,2.742]]  BR=[[2.877,0.048],[0.048,2.957]]
+    b1=-0.8564 b2=-0.7255 c=0.4593 beta=0.7364 f=1.0557 h=3.3126 g=0.0000
+[79/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00078.mat
+    a_ij corners: TL=[[2.639,-0.084],[-0.084,2.780]]  TR=[[2.760,-0.069],[-0.069,2.531]]  BL=[[2.655,-0.000],[-0.000,2.655]]  BR=[[2.900,-0.015],[-0.015,2.386]]
+    b1=-0.0667 b2=-2.0295 c=-0.6818 beta=2.0164 f=-0.8150 h=-1.8389 g=0.0000
+[80/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00079.mat
+    a_ij corners: TL=[[2.620,0.013],[0.013,2.666]]  TR=[[2.449,0.087],[0.087,2.597]]  BL=[[2.810,0.124],[0.124,2.789]]  BR=[[2.147,-0.010],[-0.010,2.491]]
+    b1=-0.0088 b2=-0.9679 c=1.3493 beta=0.2064 f=2.0365 h=1.7693 g=0.0000
+[81/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00080.mat
+    a_ij corners: TL=[[2.343,-0.135],[-0.135,2.392]]  TR=[[2.058,0.004],[0.004,2.047]]  BL=[[2.225,-0.082],[-0.082,2.301]]  BR=[[2.841,0.043],[0.043,2.944]]
+    b1=0.4740 b2=0.8741 c=-0.5619 beta=0.4541 f=1.6628 h=-2.0858 g=0.0000
+[82/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00081.mat
+    a_ij corners: TL=[[2.648,-0.010],[-0.010,2.553]]  TR=[[2.810,-0.130],[-0.130,2.661]]  BL=[[2.058,-0.016],[-0.016,2.085]]  BR=[[2.869,-0.030],[-0.030,2.827]]
+    b1=-0.3748 b2=-0.8789 c=-1.4716 beta=-0.7210 f=1.9631 h=0.2114 g=0.0000
+[83/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00082.mat
+    a_ij corners: TL=[[2.069,-0.079],[-0.079,2.520]]  TR=[[2.931,0.119],[0.119,2.756]]  BL=[[2.800,-0.221],[-0.221,2.723]]  BR=[[2.169,0.043],[0.043,2.140]]
+    b1=0.5351 b2=-1.1124 c=0.4382 beta=4.6334 f=0.7086 h=-0.4836 g=0.0000
+[84/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00083.mat
+    a_ij corners: TL=[[2.470,-0.190],[-0.190,2.275]]  TR=[[2.782,-0.041],[-0.041,2.797]]  BL=[[2.317,0.079],[0.079,2.287]]  BR=[[2.641,-0.148],[-0.148,2.123]]
+    b1=-0.2252 b2=1.7409 c=-0.4285 beta=-1.9264 f=-1.0878 h=-0.7822 g=0.0000
+[85/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00084.mat
+    a_ij corners: TL=[[2.670,-0.105],[-0.105,2.761]]  TR=[[2.820,0.040],[0.040,2.926]]  BL=[[2.049,0.000],[0.000,2.048]]  BR=[[2.945,-0.056],[-0.056,2.633]]
+    b1=0.4340 b2=1.1995 c=0.3879 beta=-1.6996 f=0.0572 h=-0.1926 g=0.0000
+[86/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00085.mat
+    a_ij corners: TL=[[2.576,0.023],[0.023,2.617]]  TR=[[2.965,0.093],[0.093,2.743]]  BL=[[2.485,0.191],[0.191,2.373]]  BR=[[2.719,0.001],[0.001,2.717]]
+    b1=-0.9636 b2=0.4235 c=1.2410 beta=-2.1908 f=3.5890 h=-2.3047 g=0.0000
+[87/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00086.mat
+    a_ij corners: TL=[[2.602,-0.006],[-0.006,2.079]]  TR=[[2.816,-0.001],[-0.001,2.893]]  BL=[[2.868,-0.001],[-0.001,2.807]]  BR=[[2.522,0.005],[0.005,2.518]]
+    b1=1.7644 b2=-0.4950 c=1.8853 beta=1.6012 f=-0.8445 h=-0.0666 g=0.0000
+[88/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00087.mat
+    a_ij corners: TL=[[2.404,-0.027],[-0.027,2.181]]  TR=[[2.096,-0.040],[-0.040,2.178]]  BL=[[2.320,0.043],[0.043,2.463]]  BR=[[2.649,-0.148],[-0.148,2.617]]
+    b1=0.4285 b2=0.4492 c=2.1673 beta=-0.0507 f=-2.3396 h=-0.9984 g=0.0000
+[89/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00088.mat
+    a_ij corners: TL=[[2.282,0.212],[0.212,2.666]]  TR=[[2.576,0.103],[0.103,2.801]]  BL=[[2.868,-0.201],[-0.201,2.096]]  BR=[[2.416,-0.048],[-0.048,2.458]]
+    b1=0.1200 b2=1.3568 c=0.3417 beta=1.8524 f=-1.1526 h=-0.8846 g=0.0000
+[90/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00089.mat
+    a_ij corners: TL=[[2.509,0.044],[0.044,2.878]]  TR=[[2.838,-0.268],[-0.268,2.356]]  BL=[[2.911,0.002],[0.002,2.915]]  BR=[[2.913,-0.264],[-0.264,2.095]]
+    b1=1.4326 b2=1.2203 c=-0.9350 beta=-2.1331 f=-1.6743 h=-1.0150 g=0.0000
+[91/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00090.mat
+    a_ij corners: TL=[[2.976,0.007],[0.007,2.941]]  TR=[[2.503,-0.044],[-0.044,2.686]]  BL=[[2.446,0.085],[0.085,2.239]]  BR=[[2.175,0.324],[0.324,2.825]]
+    b1=-0.5751 b2=-1.9573 c=-0.1221 beta=0.3386 f=2.1349 h=-0.3391 g=0.0000
+[92/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00091.mat
+    a_ij corners: TL=[[2.403,-0.422],[-0.422,2.634]]  TR=[[2.807,0.009],[0.009,2.284]]  BL=[[2.258,0.145],[0.145,2.591]]  BR=[[2.404,0.140],[0.140,2.545]]
+    b1=0.1163 b2=2.7258 c=1.4816 beta=2.0161 f=1.3338 h=0.8101 g=0.0000
+[93/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00092.mat
+    a_ij corners: TL=[[2.869,0.024],[0.024,2.879]]  TR=[[2.171,0.021],[0.021,2.274]]  BL=[[2.565,0.028],[0.028,2.699]]  BR=[[2.027,-0.001],[-0.001,2.030]]
+    b1=0.5877 b2=-1.7953 c=-0.4133 beta=-1.8122 f=-1.7716 h=1.0229 g=0.0000
+[94/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00093.mat
+    a_ij corners: TL=[[2.205,-0.130],[-0.130,2.777]]  TR=[[2.700,0.228],[0.228,2.730]]  BL=[[2.620,-0.021],[-0.021,2.393]]  BR=[[2.007,-0.012],[-0.012,2.608]]
+    b1=-0.3452 b2=-0.1593 c=0.1621 beta=1.1538 f=0.5889 h=0.1352 g=0.0000
+[95/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00094.mat
+    a_ij corners: TL=[[2.592,-0.004],[-0.004,2.554]]  TR=[[2.555,0.005],[0.005,2.531]]  BL=[[2.073,0.132],[0.132,2.257]]  BR=[[2.381,-0.159],[-0.159,2.571]]
+    b1=-0.8583 b2=-0.8741 c=-1.7473 beta=1.5255 f=-0.9712 h=-0.3122 g=0.0000
+[96/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00095.mat
+    a_ij corners: TL=[[2.332,-0.213],[-0.213,2.210]]  TR=[[2.582,0.059],[0.059,2.219]]  BL=[[2.293,-0.069],[-0.069,2.450]]  BR=[[2.921,0.062],[0.062,2.451]]
+    b1=-0.5551 b2=2.3099 c=0.0627 beta=-0.1626 f=0.4368 h=-0.4107 g=0.0000
+[97/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00096.mat
+    a_ij corners: TL=[[2.490,0.172],[0.172,2.629]]  TR=[[2.623,-0.006],[-0.006,2.343]]  BL=[[2.438,-0.330],[-0.330,2.566]]  BR=[[2.636,-0.078],[-0.078,2.553]]
+    b1=1.5778 b2=-0.1071 c=-1.4446 beta=-0.5479 f=1.4695 h=-0.2981 g=0.0000
+[98/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00097.mat
+    a_ij corners: TL=[[2.554,-0.026],[-0.026,2.103]]  TR=[[2.481,-0.064],[-0.064,2.268]]  BL=[[2.507,-0.001],[-0.001,2.501]]  BR=[[2.702,-0.153],[-0.153,2.368]]
+    b1=0.0296 b2=-0.4185 c=-0.5928 beta=-1.2645 f=-2.3846 h=1.8129 g=0.0000
+[99/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00098.mat
+    a_ij corners: TL=[[2.058,-0.098],[-0.098,2.354]]  TR=[[2.342,0.070],[0.070,2.374]]  BL=[[2.468,0.041],[0.041,2.299]]  BR=[[2.513,0.269],[0.269,2.183]]
+    b1=1.2907 b2=-0.1938 c=-0.4886 beta=-0.6353 f=-1.6079 h=1.8674 g=0.0000
+[100/100] wrote ..\dataset\main\matlab_problems\ood\problem_instance_00099.mat
+    a_ij corners: TL=[[2.527,0.009],[0.009,2.537]]  TR=[[2.297,-0.079],[-0.079,2.316]]  BL=[[2.628,0.312],[0.312,2.436]]  BR=[[2.516,0.260],[0.260,2.557]]
+    b1=-2.0465 b2=2.0793 c=1.3199 beta=0.3636 f=-2.8142 h=1.3738 g=0.0000
+
+done: wrote 100 instance(s) to ..\dataset\main\matlab_problems\ood
+found 100 problem instance(s) in ..\dataset\main\matlab_problems\ood
+[1/100] solving problem_instance_00000.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00000.mat  (9985 nodes, 51 time steps)
+[2/100] solving problem_instance_00001.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00001.mat  (9985 nodes, 51 time steps)
+[3/100] solving problem_instance_00002.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00002.mat  (9985 nodes, 51 time steps)
+[4/100] solving problem_instance_00003.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00003.mat  (9985 nodes, 51 time steps)
+[5/100] solving problem_instance_00004.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00004.mat  (9985 nodes, 51 time steps)
+[6/100] solving problem_instance_00005.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00005.mat  (9985 nodes, 51 time steps)
+[7/100] solving problem_instance_00006.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00006.mat  (9985 nodes, 51 time steps)
+[8/100] solving problem_instance_00007.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00007.mat  (9985 nodes, 51 time steps)
+[9/100] solving problem_instance_00008.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00008.mat  (9985 nodes, 51 time steps)
+[10/100] solving problem_instance_00009.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00009.mat  (9985 nodes, 51 time steps)
+[11/100] solving problem_instance_00010.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00010.mat  (9985 nodes, 51 time steps)
+[12/100] solving problem_instance_00011.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00011.mat  (9985 nodes, 51 time steps)
+[13/100] solving problem_instance_00012.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00012.mat  (9985 nodes, 51 time steps)
+[14/100] solving problem_instance_00013.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00013.mat  (9985 nodes, 51 time steps)
+[15/100] solving problem_instance_00014.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00014.mat  (9985 nodes, 51 time steps)
+[16/100] solving problem_instance_00015.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00015.mat  (9985 nodes, 51 time steps)
+[17/100] solving problem_instance_00016.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00016.mat  (9985 nodes, 51 time steps)
+[18/100] solving problem_instance_00017.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00017.mat  (9985 nodes, 51 time steps)
+[19/100] solving problem_instance_00018.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00018.mat  (9985 nodes, 51 time steps)
+[20/100] solving problem_instance_00019.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00019.mat  (9985 nodes, 51 time steps)
+[21/100] solving problem_instance_00020.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00020.mat  (9985 nodes, 51 time steps)
+[22/100] solving problem_instance_00021.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00021.mat  (9985 nodes, 51 time steps)
+[23/100] solving problem_instance_00022.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00022.mat  (9985 nodes, 51 time steps)
+[24/100] solving problem_instance_00023.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00023.mat  (9985 nodes, 51 time steps)
+[25/100] solving problem_instance_00024.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00024.mat  (9985 nodes, 51 time steps)
+[26/100] solving problem_instance_00025.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00025.mat  (9985 nodes, 51 time steps)
+[27/100] solving problem_instance_00026.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00026.mat  (9985 nodes, 51 time steps)
+[28/100] solving problem_instance_00027.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00027.mat  (9985 nodes, 51 time steps)
+[29/100] solving problem_instance_00028.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00028.mat  (9985 nodes, 51 time steps)
+[30/100] solving problem_instance_00029.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00029.mat  (9985 nodes, 51 time steps)
+[31/100] solving problem_instance_00030.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00030.mat  (9985 nodes, 51 time steps)
+[32/100] solving problem_instance_00031.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00031.mat  (9985 nodes, 51 time steps)
+[33/100] solving problem_instance_00032.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00032.mat  (9985 nodes, 51 time steps)
+[34/100] solving problem_instance_00033.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00033.mat  (9985 nodes, 51 time steps)
+[35/100] solving problem_instance_00034.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00034.mat  (9985 nodes, 51 time steps)
+[36/100] solving problem_instance_00035.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00035.mat  (9985 nodes, 51 time steps)
+[37/100] solving problem_instance_00036.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00036.mat  (9985 nodes, 51 time steps)
+[38/100] solving problem_instance_00037.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00037.mat  (9985 nodes, 51 time steps)
+[39/100] solving problem_instance_00038.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00038.mat  (9985 nodes, 51 time steps)
+[40/100] solving problem_instance_00039.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00039.mat  (9985 nodes, 51 time steps)
+[41/100] solving problem_instance_00040.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00040.mat  (9985 nodes, 51 time steps)
+[42/100] solving problem_instance_00041.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00041.mat  (9985 nodes, 51 time steps)
+[43/100] solving problem_instance_00042.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00042.mat  (9985 nodes, 51 time steps)
+[44/100] solving problem_instance_00043.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00043.mat  (9985 nodes, 51 time steps)
+[45/100] solving problem_instance_00044.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00044.mat  (9985 nodes, 51 time steps)
+[46/100] solving problem_instance_00045.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00045.mat  (9985 nodes, 51 time steps)
+[47/100] solving problem_instance_00046.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00046.mat  (9985 nodes, 51 time steps)
+[48/100] solving problem_instance_00047.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00047.mat  (9985 nodes, 51 time steps)
+[49/100] solving problem_instance_00048.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00048.mat  (9985 nodes, 51 time steps)
+[50/100] solving problem_instance_00049.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00049.mat  (9985 nodes, 51 time steps)
+[51/100] solving problem_instance_00050.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00050.mat  (9985 nodes, 51 time steps)
+[52/100] solving problem_instance_00051.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00051.mat  (9985 nodes, 51 time steps)
+[53/100] solving problem_instance_00052.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00052.mat  (9985 nodes, 51 time steps)
+[54/100] solving problem_instance_00053.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00053.mat  (9985 nodes, 51 time steps)
+[55/100] solving problem_instance_00054.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00054.mat  (9985 nodes, 51 time steps)
+[56/100] solving problem_instance_00055.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00055.mat  (9985 nodes, 51 time steps)
+[57/100] solving problem_instance_00056.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00056.mat  (9985 nodes, 51 time steps)
+[58/100] solving problem_instance_00057.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00057.mat  (9985 nodes, 51 time steps)
+[59/100] solving problem_instance_00058.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00058.mat  (9985 nodes, 51 time steps)
+[60/100] solving problem_instance_00059.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00059.mat  (9985 nodes, 51 time steps)
+[61/100] solving problem_instance_00060.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00060.mat  (9985 nodes, 51 time steps)
+[62/100] solving problem_instance_00061.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00061.mat  (9985 nodes, 51 time steps)
+[63/100] solving problem_instance_00062.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00062.mat  (9985 nodes, 51 time steps)
+[64/100] solving problem_instance_00063.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00063.mat  (9985 nodes, 51 time steps)
+[65/100] solving problem_instance_00064.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00064.mat  (9985 nodes, 51 time steps)
+[66/100] solving problem_instance_00065.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00065.mat  (9985 nodes, 51 time steps)
+[67/100] solving problem_instance_00066.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00066.mat  (9985 nodes, 51 time steps)
+[68/100] solving problem_instance_00067.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00067.mat  (9985 nodes, 51 time steps)
+[69/100] solving problem_instance_00068.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00068.mat  (9985 nodes, 51 time steps)
+[70/100] solving problem_instance_00069.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00069.mat  (9985 nodes, 51 time steps)
+[71/100] solving problem_instance_00070.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00070.mat  (9985 nodes, 51 time steps)
+[72/100] solving problem_instance_00071.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00071.mat  (9985 nodes, 51 time steps)
+[73/100] solving problem_instance_00072.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00072.mat  (9985 nodes, 51 time steps)
+[74/100] solving problem_instance_00073.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00073.mat  (9985 nodes, 51 time steps)
+[75/100] solving problem_instance_00074.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00074.mat  (9985 nodes, 51 time steps)
+[76/100] solving problem_instance_00075.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00075.mat  (9985 nodes, 51 time steps)
+[77/100] solving problem_instance_00076.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00076.mat  (9985 nodes, 51 time steps)
+[78/100] solving problem_instance_00077.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00077.mat  (9985 nodes, 51 time steps)
+[79/100] solving problem_instance_00078.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00078.mat  (9985 nodes, 51 time steps)
+[80/100] solving problem_instance_00079.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00079.mat  (9985 nodes, 51 time steps)
+[81/100] solving problem_instance_00080.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00080.mat  (9985 nodes, 51 time steps)
+[82/100] solving problem_instance_00081.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00081.mat  (9985 nodes, 51 time steps)
+[83/100] solving problem_instance_00082.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00082.mat  (9985 nodes, 51 time steps)
+[84/100] solving problem_instance_00083.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00083.mat  (9985 nodes, 51 time steps)
+[85/100] solving problem_instance_00084.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00084.mat  (9985 nodes, 51 time steps)
+[86/100] solving problem_instance_00085.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00085.mat  (9985 nodes, 51 time steps)
+[87/100] solving problem_instance_00086.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00086.mat  (9985 nodes, 51 time steps)
+[88/100] solving problem_instance_00087.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00087.mat  (9985 nodes, 51 time steps)
+[89/100] solving problem_instance_00088.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00088.mat  (9985 nodes, 51 time steps)
+[90/100] solving problem_instance_00089.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00089.mat  (9985 nodes, 51 time steps)
+[91/100] solving problem_instance_00090.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00090.mat  (9985 nodes, 51 time steps)
+[92/100] solving problem_instance_00091.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00091.mat  (9985 nodes, 51 time steps)
+[93/100] solving problem_instance_00092.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00092.mat  (9985 nodes, 51 time steps)
+[94/100] solving problem_instance_00093.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00093.mat  (9985 nodes, 51 time steps)
+[95/100] solving problem_instance_00094.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00094.mat  (9985 nodes, 51 time steps)
+[96/100] solving problem_instance_00095.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00095.mat  (9985 nodes, 51 time steps)
+[97/100] solving problem_instance_00096.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00096.mat  (9985 nodes, 51 time steps)
+[98/100] solving problem_instance_00097.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00097.mat  (9985 nodes, 51 time steps)
+[99/100] solving problem_instance_00098.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00098.mat  (9985 nodes, 51 time steps)
+[100/100] solving problem_instance_00099.mat ...
+    -> ..\dataset\main\matlab_solutions\ood\reference_solution_00099.mat  (9985 nodes, 51 time steps)
+
+done: 100 solved, 0 skipped (already done), 0 failed out of 100
