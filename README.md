@@ -29,7 +29,7 @@ The full dataset, including the FEM solutions, is on Zenodo:
 - Record: https://zenodo.org/records/24111220
 - DOI: [10.5281/zenodo.24111220](https://doi.org/10.5281/zenodo.24111220)
 
-Download `PNO_dataset_main.zip` and `PNO_dataset_lipschitz.zip` and extract them in the repository root, so the files sit under `dataset/`.
+Download the zip files and extract them all in the repository root, so the files sit under `dataset/`. `PNO_*_samples.zip` and `PNO_*_matlab_problems.zip` are enough to reproduce the paper's results. `PNO_*_matlab_solutions_*.zip` contain the raw FEM solutions.
 
 ## Quick start
 
